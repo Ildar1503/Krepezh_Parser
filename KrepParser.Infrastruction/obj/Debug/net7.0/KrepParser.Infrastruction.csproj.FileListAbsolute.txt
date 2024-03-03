@@ -1,0 +1,17 @@
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\bin\Debug\net7.0\KrepParser.Infrastruction.deps.json
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\bin\Debug\net7.0\KrepParser.Infrastruction.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\bin\Debug\net7.0\KrepParser.Infrastruction.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\bin\Debug\net7.0\KrepParser.Application.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\bin\Debug\net7.0\KrepParser.Domain.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\bin\Debug\net7.0\KrepParser.Application.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\bin\Debug\net7.0\KrepParser.Domain.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.csproj.AssemblyReference.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.AssemblyInfoInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.AssemblyInfo.cs
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.csproj.CoreCompileInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.csproj.CopyComplete
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\refint\KrepParser.Infrastruction.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\KrepParser.Infrastruction.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Infrastruction\obj\Debug\net7.0\ref\KrepParser.Infrastruction.dll

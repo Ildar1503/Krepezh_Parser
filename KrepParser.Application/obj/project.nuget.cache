@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OEnV6Al4DkqAquK16bGQpc4akCLmBXAjFq6CYiP88XgVmfOSPIhTbf/6OZpaLLf/D8Egh5x4alCaAO4e86tufg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser.Application\\KrepParser.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79603\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\79603\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\79603\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

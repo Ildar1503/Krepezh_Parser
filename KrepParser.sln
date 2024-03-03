@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrepParser", "KrepParser\KrepParser.csproj", "{9727140A-16D2-4188-83A5-345A0105A342}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1940AFCA-B817-43AB-A4D0-71EAD3425526}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{AAE485BB-2361-46EF-BD74-887469526890}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{8C1EEF04-C858-4FBB-8442-627F3E414ECC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C747DBD8-AF41-4008-B310-21DE57D8E1F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrepParser.Domain", "KrepParser.Domain\KrepParser.Domain.csproj", "{B90686FF-22CB-491A-A456-68DF6178EE5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrepParser.Application", "KrepParser.Application\KrepParser.Application.csproj", "{B1134E60-5400-48BA-857C-1BBAD217D35B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrepParser.Infrastruction", "KrepParser.Infrastruction\KrepParser.Infrastruction.csproj", "{EC1EC357-85AD-4C30-B7D9-9ECC16D6F68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9727140A-16D2-4188-83A5-345A0105A342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9727140A-16D2-4188-83A5-345A0105A342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9727140A-16D2-4188-83A5-345A0105A342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9727140A-16D2-4188-83A5-345A0105A342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90686FF-22CB-491A-A456-68DF6178EE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90686FF-22CB-491A-A456-68DF6178EE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90686FF-22CB-491A-A456-68DF6178EE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90686FF-22CB-491A-A456-68DF6178EE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1134E60-5400-48BA-857C-1BBAD217D35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1134E60-5400-48BA-857C-1BBAD217D35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1134E60-5400-48BA-857C-1BBAD217D35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1134E60-5400-48BA-857C-1BBAD217D35B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1EC357-85AD-4C30-B7D9-9ECC16D6F68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1EC357-85AD-4C30-B7D9-9ECC16D6F68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1EC357-85AD-4C30-B7D9-9ECC16D6F68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1EC357-85AD-4C30-B7D9-9ECC16D6F68E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9727140A-16D2-4188-83A5-345A0105A342} = {C747DBD8-AF41-4008-B310-21DE57D8E1F2}
+		{B90686FF-22CB-491A-A456-68DF6178EE5F} = {1940AFCA-B817-43AB-A4D0-71EAD3425526}
+		{B1134E60-5400-48BA-857C-1BBAD217D35B} = {AAE485BB-2361-46EF-BD74-887469526890}
+		{EC1EC357-85AD-4C30-B7D9-9ECC16D6F68E} = {8C1EEF04-C858-4FBB-8442-627F3E414ECC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA42B6B2-6193-4B77-A5DB-FDD147C25569}
+	EndGlobalSection
+EndGlobal

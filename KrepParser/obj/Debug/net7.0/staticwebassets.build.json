@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "GZSJaX/I0p/jo8oiGI2QHxBbW8P6mvqIuLYdY8rod6E=",
+  "Source": "KrepParser",
+  "BasePath": "_content/KrepParser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KrepParser\\wwwroot",
+      "Source": "KrepParser",
+      "ContentRoot": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser\\wwwroot\\",
+      "BasePath": "_content/KrepParser",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser\\wwwroot\\js\\MonitoringData.js",
+      "SourceId": "KrepParser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser\\wwwroot\\",
+      "BasePath": "_content/KrepParser",
+      "RelativePath": "js/MonitoringData.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\MonitoringData.js"
+    },
+    {
+      "Identity": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser\\wwwroot\\js\\ParseDataScript.js",
+      "SourceId": "KrepParser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser\\wwwroot\\",
+      "BasePath": "_content/KrepParser",
+      "RelativePath": "js/ParseDataScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ParseDataScript.js"
+    }
+  ]
+}

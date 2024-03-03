@@ -1,0 +1,27 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Креп парсер</title>
+</head>
+<body>
+    <header>
+        <nav class="navigation_menu">
+            <div class="price_monitoring">
+                <a asp-controller = "Home" asp-action="HomeIndex">Мониторинг цен</a>
+            </div>
+            <div class="monitoring_data">
+                <a asp-controller="MonitoringData" asp-action="MonitoringDataIndex">Данные из мониторинга</a>
+            </div>
+        </nav>
+    </header>
+    <div class="main_container">
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

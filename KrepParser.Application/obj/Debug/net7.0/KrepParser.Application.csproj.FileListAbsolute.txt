@@ -1,0 +1,15 @@
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\bin\Debug\net7.0\KrepParser.Application.deps.json
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\bin\Debug\net7.0\KrepParser.Application.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\bin\Debug\net7.0\KrepParser.Application.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.csproj.AssemblyReference.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.AssemblyInfoInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.AssemblyInfo.cs
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.csproj.CoreCompileInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\refint\KrepParser.Application.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\ref\KrepParser.Application.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\bin\Debug\net7.0\KrepParser.Domain.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\bin\Debug\net7.0\KrepParser.Domain.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Application\obj\Debug\net7.0\KrepParser.Application.csproj.CopyComplete

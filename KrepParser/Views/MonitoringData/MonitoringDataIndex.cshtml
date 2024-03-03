@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<div class="form_box">
+    <form id="search_form">
+        <label>Название товара</label>
+        <input id="request_text" type="text" name="request">
+        <br />
+        <label>Магазин</label>
+        <select name="shop_name">
+            <option value="levsha">"Левша"</option>
+            <option value="stroi_snab">"Строй снаб"</option>
+            <option value="saturn">"Сатурн"</option>
+        </select>
+        <select id="category_select" name="category">
+            <option value="гвоздь">Гвоздь</option>
+            <option value="болт">Болт</option>
+            <option value="саморез">Саморез</option>
+            <option value="анкер">Акер</option>
+            <option value="дюбель">Дюбель</option>
+            <option value="гайка">Гайка</option>
+        </select>
+    </form>
+    <button id="information_btn">Получить загруженные данные</button>
+    <br />
+    <div class="table_box"></div>
+</div>
+<script src="~/js/MonitoringData.js"></script>

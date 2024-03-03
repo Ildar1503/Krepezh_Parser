@@ -1,0 +1,22 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<div class="form_box">
+    <form id="search_form">
+        <label>Название товара</label>
+        <input type="text" name="request">
+        <br />
+        <label>Магазин</label>
+        <select name="shop_name">
+            <option value="levsha">"Левша"</option>
+            <option value="stroi_snab">"Строй снаб"</option>
+            <option value="saturn">"Сатурн"</option>
+        </select>
+    </form>
+    <button id="search_btn">Получить данные</button>
+    <button id="information_btn">Получить загруженные данные</button>
+    <br />
+    <div class="table_box"></div>
+</div>
+<script src="~/js/ParseDataScript.js"></script>

@@ -1,0 +1,12 @@
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\bin\Debug\net7.0\KrepParser.Domain.deps.json
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\bin\Debug\net7.0\KrepParser.Domain.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\bin\Debug\net7.0\KrepParser.Domain.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\KrepParser.Domain.csproj.AssemblyReference.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\KrepParser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\KrepParser.Domain.AssemblyInfoInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\KrepParser.Domain.AssemblyInfo.cs
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\KrepParser.Domain.csproj.CoreCompileInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\KrepParser.Domain.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\refint\KrepParser.Domain.dll
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\KrepParser.Domain.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Другие проекты\KrepParser\KrepParser.Domain\obj\Debug\net7.0\ref\KrepParser.Domain.dll

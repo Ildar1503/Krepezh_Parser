@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser\\wwwroot\\js\\MonitoringData.js",
+      "PackagePath": "staticwebassets\\js\\MonitoringData.js"
+    },
+    {
+      "Id": "C:\\Users\\79603\\OneDrive\\Рабочий стол\\Другие проекты\\KrepParser\\KrepParser\\wwwroot\\js\\ParseDataScript.js",
+      "PackagePath": "staticwebassets\\js\\ParseDataScript.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KrepParser.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KrepParser.props",
+      "PackagePath": "build\\KrepParser.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KrepParser.props",
+      "PackagePath": "buildMultiTargeting\\KrepParser.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KrepParser.props",
+      "PackagePath": "buildTransitive\\KrepParser.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
